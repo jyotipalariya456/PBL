@@ -1,7 +1,6 @@
 
 # OS - Page Replacement Algorithms Simulation
 
-## Website Link: https://main.d2k48va2e4kfcx.amplifyapp.com/
 
 ## Goal of the Project:
 
@@ -42,7 +41,7 @@ Application Development:
 
 Deployment:
 
-    The final step in the development process was to deploy the application on AWS Amplify. AWS Amplify is a cloud hosting platform that provides scalable, secure, and high-performance hosting for web applications.
+The final step in the development process was to deploy the application on Vercel. Vercel is a cloud platform that enables fast, scalable, and secure deployment of modern web applications with seamless integration to GitHub for continuous deployment.
 
 Features of the Project:
 
@@ -73,15 +72,3 @@ Scalable and Reliable:
     The application is hosted on AWS Amplify
 
 
-## UI Demo
-
-
-
-![Website](https://i.postimg.cc/qMYBczMj/Screenshot-22.png)
-
-[![Screenshot-23.png](https://i.postimg.cc/SsymQ9DN/Screenshot-23.png)](https://postimg.cc/8Fn2tj2q)
-
-[![Screenshot-24.png](https://i.postimg.cc/5yy1LMhh/Screenshot-24.png)](https://postimg.cc/34sPQzJ1)
-
-
-[![Screenshot-25.png](https://i.postimg.cc/0QcPzNBG/Screenshot-25.png)](https://postimg.cc/XGGThn3X)

@@ -2,18 +2,20 @@ import React from "react";
 import Navbar from "../Navigation/Navbar";
 
 const team = [
-  {
-    name: "Mamta Pawar",
-    img: "./images/mamta.jpg",
-    msg:  "Passionate about frontend and design.",
-    roleDetail: " I Mamta handling  the frontend UI using React and Material-UI. She styled the page using custom classes, ensured responsiveness, and designed intuitive input fields and result areas for a smooth user experience.",
-  },
+  
   {
     name: "Jyoti Palariya",
     img: "./images/jyoti.jpg",
-    msg: "Loves working with databases and APIs.",
-    roleDetail:
-      " I Jyoti responsible for integrating backend data handling. She managed state persistence using Firebase and explored options to store simulation results for future references or cloud-based access.",
+    msg: " Passionate about frontend and design.",
+    roleDetail: " I Jyoti Palariya handling  the frontend UI using React and Material-UI. She styled the page using custom classes, ensured responsiveness, and designed intuitive input fields and result areas for a smooth user experience.",
+  },
+
+  {
+    name: "Mamta Pawar",
+    img: "./images/mamta.jpg",
+    msg:  "Loves working with databases & APIs.",
+    roleDetail:  " I Mamta responsible for integrating backend data handling. She managed state persistence using Firebase and explored options to store simulation results .",
+    
   },
   {
     name: "KM Babita",
