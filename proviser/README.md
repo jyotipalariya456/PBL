@@ -1,7 +1,6 @@
 
 # OS - Page Replacement Algorithms Simulation
 
-## Website Link: https://main.d2k48va2e4kfcx.amplifyapp.com/
 
 ## Goal of the Project:
 
